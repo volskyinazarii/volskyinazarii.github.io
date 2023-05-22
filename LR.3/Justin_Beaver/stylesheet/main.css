@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana;
+}
+h1{
+    color: rgb(46, 211, 13);
+}
+article header p{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+article figure {
+    width: 600px;
+    border: 3px solid black;
+    padding: 5px;
+}
+article figure img {
+    width: 100%;
+}
+article{
+    width: 800px;
+}
